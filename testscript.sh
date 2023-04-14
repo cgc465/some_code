@@ -2,5 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "Edited this file today 4/14/2023 @4:53pm"
+echo "Edited this file today 4/14/2023 @4:58pm"
 echo "This was added"
